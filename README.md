@@ -1,3 +1,5 @@
 # Git_Hub_Repository
 First repository
-just some random changes ina the branch
+
+Just some initial edits to prove I can save an edit.
+
